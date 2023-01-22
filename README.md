@@ -30,3 +30,5 @@ After learning about ruby through practice exercises implement a rational type t
 14) Reduce to lowest terms Reduce a given rational and returns a new rational that is in lowest terms. For example, 36/20 reduces to 9/5. Use the greatest common divisor (GCD) algorithm to help do this. Be careful in the case where the numerator or denominator is negative.
 
 15) Harmonic sum Given an integer n
+
+Also implement linear sorting and check the results
