@@ -1,5 +1,5 @@
 # Ruby_learning
-After learning about ruby through practice exercises implement a rational type that should support at least the following operations.
+### After learning about ruby through practice exercises implement a rational type that should support at least the following operations.
 
 1) Make a rational: Given integers  and , create a new rational with  as the numerator and  as the denominator. Trying to create a rational with denominator 0 is an error, but it should not crash your program. Instead, handle this case in a systematic way that makes sense within your programming language; the language-specific notes at the bottom may give you hints.
 
@@ -31,4 +31,4 @@ After learning about ruby through practice exercises implement a rational type t
 
 15) Harmonic sum Given an integer n
 
-Also implement linear sorting and check the results
+### Also implement linear sorting and check the results
